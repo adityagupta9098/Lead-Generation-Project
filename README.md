@@ -1,1 +1,2 @@
 # Lead-Generation-Project
+As part of a lead generation project, I developed a comprehensive system aimed at generating leads for the company. The project involves managing a database containing customer information, including names and mobile numbers. The primary objective is to facilitate effective communication with potential customers through personalized calls. The leads are categorized into different types such as hot calls, cold calls, warm calls, and freeze calls based on the customer's interest level, and this data is visualized on a dynamic dashboard.
